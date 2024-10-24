@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Class Activity"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ca 3 project"
+	}
+}
